@@ -1,2 +1,8 @@
-# Imers-o-React
-Imersão React com Alura
+# Imersão React com Alura
+
+<p align="center">
+  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
+</p>
+
+> Projetos construidos durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+

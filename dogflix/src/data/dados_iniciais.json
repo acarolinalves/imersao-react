@@ -1,0 +1,133 @@
+{
+  "categorias": [
+    {
+      "titulo": "Adestramento",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "O que você sabe sobre isso?",
+        "url": "https://caocidadao.com.br/o-que-e-adestramento/"
+      },
+      "videos": [
+        {
+          "titulo": "Dicas de adestramento de cães com Alexandre Rossi",
+          "url": "https://www.youtube.com/watch?v=JLyoD19Zvu0"
+        },
+        {
+          "titulo": "Morde-Morde",
+          "url": "https://www.youtube.com/watch?v=GYUV3g3oY70"
+        },
+        {
+          "titulo": "Dicas de comportamento",
+          "url": "https://www.youtube.com/watch?v=irECs4C085o&list=PLub_isLG03Lv_iDYB-IjcLnInP04K4oXJ"
+        },
+        {
+          "titulo": "Xixi no lugar certo",
+          "url": "https://www.youtube.com/watch?v=QRoo-cg4yDM&list=PLub_isLG03Lv_iDYB-IjcLnInP04K4oXJ&index=2"
+        },
+        {
+          "titulo": "O late-late",
+          "url": "https://www.youtube.com/watch?v=AjWjlkLqPK4&list=PLub_isLG03Lv_iDYB-IjcLnInP04K4oXJ&index=4"
+        },
+        {
+          "titulo": "O bagunceiro",
+          "url": "https://www.youtube.com/watch?v=MP7ZeGvkCmM&list=PLub_isLG03Lv_iDYB-IjcLnInP04K4oXJ&index=3"
+        },
+        {
+          "titulo": "O encrenqueiro",
+          "url": "https://www.youtube.com/watch?v=Leq-OgGva88&list=PLub_isLG03Lv_iDYB-IjcLnInP04K4oXJ&index=5"
+        }      
+      ]
+    },
+    {
+      "titulo": "Filhote",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "Alguns cuidados",
+        "url": "https://fisioanimal.com/blog/dicas-para-cuidar-de-seu-filhote-de-cachorro/"
+      },
+      "videos": [
+        {
+          "titulo": "Quero um filhote",
+          "url": "https://www.youtube.com/watch?v=B6y6Ldsd1hY"
+        }, 
+        {
+          "titulo": "Primeiros dias",
+          "url": "https://www.youtube.com/watch?v=ZtcS9_H1kyU"
+        },
+        {
+          "titulo": "Como cuidar",
+          "url": "https://www.youtube.com/watch?v=LdzIcG21ub0"
+        },
+        {
+          "titulo": "Como educar",
+          "url": "https://www.youtube.com/watch?v=58TV4rZDHiQ"
+        },
+        {
+          "titulo": "Primeiros cuidados",
+          "url": "https://www.youtube.com/watch?v=n28KSjxX4UY"
+        }
+      ]
+    },
+    {
+      "titulo": "Vacinas",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "Por que e quando?",
+        "url": "https://www.petz.com.br/blog/pets/caes/vacina-para-cachorro-por-que-e-quando-administrar/"
+      },
+      "videos": [
+        {
+          "titulo": "De quais vacinas meu cão precisa?",
+          "url": "https://www.youtube.com/watch?v=UonCZgYpDkQ"
+        },
+        {
+          "titulo": "Reações e o que fazer",
+          "url": "https://www.youtube.com/watch?v=3chLqKiyr8U"
+        },
+        {
+          "titulo": "Plano de vacinação",
+          "url": "https://www.youtube.com/watch?v=_nldSr5JH0o"
+        },
+        {
+          "titulo": "Primeira vacina",
+          "url": "https://www.youtube.com/watch?v=rlVvsODOUsM"
+        },
+        {
+          "titulo": "Filhotes e Adultos",
+          "url": "https://www.youtube.com/watch?v=kRns8TO6nfM"
+        }
+      ]
+    },
+    {
+      "titulo": "Banho",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "O que você precisa saber",
+        "url": "https://www.cachorroverde.com.br/banho/"
+      },
+      "videos": [
+        {
+          "titulo": "Como dar banho em casa",
+          "url": "https://www.youtube.com/watch?v=zoZPzA9XUm0"
+        },
+        {
+          "titulo": "Banho a seco",
+          "url": "https://www.youtube.com/watch?v=-3bYGVKZVSY"
+        },
+        {
+          "titulo": "Em quanto tempo?",
+          "url": "https://www.youtube.com/watch?v=hT3eZJRDNpI"
+        },
+        {
+          "titulo": "Banho em filhotes",
+          "url": "https://www.youtube.com/watch?v=XmOU6Ez1D7s"
+        },
+        {
+          "titulo": "Fora de casa",
+          "url": "https://www.youtube.com/watch?v=hr42J_vvs44"
+        }
+      ]
+    }
+  ]
+}
